@@ -1,7 +1,7 @@
 ### Hey, Nidhin Naushad here!
 
 
-- 🔭 I’m currently working on PCB designs and Hardware CTF's with team Bi0s
+- 🔭 I’m currently working on PCB designs and Hardware CTF's with team bi0s
 - 🌱 I’m currently learning Electronics and Computer Science Engineering
 - 👯 I’m looking to collaborate on Digital Marketing and Open source projects 
 - 🤔 I’m looking for help with RFID and ARM
