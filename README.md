@@ -1,7 +1,7 @@
 ### Hey, Nidhin Naushad here!
 
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: he/his
 - 🔭 Hardware CTF player at team bi0s
 - 🌱 Electronics and Computer Engineering Student
 - 👯 Learning more on Cyber Security and Embedded Development
